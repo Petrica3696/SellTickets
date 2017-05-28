@@ -1,0 +1,8 @@
+com\selltickets\example\repositories\EventRepository.class
+com\selltickets\example\SellTicketsApplication.class
+com\selltickets\example\services\EventServiceImpl.class
+com\selltickets\example\models\Ticket.class
+com\selltickets\example\services\EventService.class
+com\selltickets\example\controllers\EventController.class
+com\selltickets\example\services\CrudService.class
+com\selltickets\example\models\Event.class
